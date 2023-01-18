@@ -1,13 +1,13 @@
 ### Ola 👋
 
-Meu nome é Danilo Motta Hidalgo. Atualmente trabalho com resoluções de bugs e desenvolvimento de soluções.
+Meu nome é Danilo Motta Hidalgo. Atualmente trabalho com Segurança da informação.
 
 No meu tempo livre, eu desenvolvo pequenos projetos pessoais para estudo.
 
 ### Informações sobre mim
 
 - Nome: Danilo Motta Hidalgo
-- Idade: 26 anos
+- Idade: 27 anos
 - Morando em: Santo André-SP, Brasil
 - Facudade: Fapen - Faculdade Pentágono - Análise e Desenvolvimento de Sistemas
 
